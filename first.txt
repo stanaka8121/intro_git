@@ -1,3 +1,5 @@
 Gitの練習をしていきます。Git practice
 基本的なワークフローを学びます。 Study based flow
+・git add
+・git commit
 
